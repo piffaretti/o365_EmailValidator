@@ -6,12 +6,13 @@ It employs a technique that queries the URL: https://tenantname-my.sharepoint.co
 
 The best part? It remains undetectable by the blue team and there is no blocking or rate limit by MS! 😎
 
-You need the Tenant name, major part is companyname+corp or companyname+country code or just company name. You can try search oin google:
+You need the Tenant name, major part is companyname+corp or companyname+country_code or just company name. You can try search in google:
 
 "Companyname" site:sharepoint.com
 
 Example: Company name is CrazyPiffaretti and is located in Switzerland
-Porbabily names of tenant:
-Crazypiffaretticorp
-Crazypiffaretti
-Crazypiffarettich (ch is the code of switzerland)
+
+Probably names of tenants:
+* Crazypiffaretticorp
+* Crazypiffaretti
+* Crazypiffarettich (ch is the code of switzerland)
